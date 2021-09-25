@@ -1,0 +1,10 @@
+C:\Users\Юзверь\source\repos\PhotoSmort\bin\Debug\PhotoSmort.exe.config
+C:\Users\Юзверь\source\repos\PhotoSmort\bin\Debug\PhotoSmort.exe
+C:\Users\Юзверь\source\repos\PhotoSmort\bin\Debug\PhotoSmort.pdb
+C:\Users\Юзверь\source\repos\PhotoSmort\obj\Debug\PhotoSmort.csprojAssemblyReference.cache
+C:\Users\Юзверь\source\repos\PhotoSmort\obj\Debug\PhotoSmort.Form1.resources
+C:\Users\Юзверь\source\repos\PhotoSmort\obj\Debug\PhotoSmort.Properties.Resources.resources
+C:\Users\Юзверь\source\repos\PhotoSmort\obj\Debug\PhotoSmort.csproj.GenerateResource.cache
+C:\Users\Юзверь\source\repos\PhotoSmort\obj\Debug\PhotoSmort.csproj.CoreCompileInputs.cache
+C:\Users\Юзверь\source\repos\PhotoSmort\obj\Debug\PhotoSmort.exe
+C:\Users\Юзверь\source\repos\PhotoSmort\obj\Debug\PhotoSmort.pdb
